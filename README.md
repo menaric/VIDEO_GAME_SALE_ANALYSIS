@@ -4,7 +4,7 @@ It focuses on the analysis of the video game database from VGChartz. <br>
 
 ## Problem Statement
 1. Predict the sale volume based on its attributes such as Developer, Publisher and Genre
-2. Create a model to assist new / aspiring game developers in choosing desired attributes for their games, based on available data
+2. Create a model to assist new / aspiring game developers in choosing desired attributes for their games
 
 ## Collaborators
 __Chee Wen Zhan__ : Data Scraping, Notebook Management <br>
