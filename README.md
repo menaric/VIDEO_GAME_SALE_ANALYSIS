@@ -28,6 +28,13 @@ This dataset will only be used to import the Genres for as many game entries as 
 In this notebook, the dataset will have the filename __vgsales_kaggle.csv__. <br>
 
 ## Notebook
+### ?? (notebook name)
+This notebook will contain the following features, in order
+1. Cleaning of dataset
+2. Exploratory Data Analysis
+3. Linear Regression to predict Total Sales
+4. Support Vector Regression and GridSearch to improve model
+5. ?? (insight model)
 
 ## Libraries and Models
 - Pandas
