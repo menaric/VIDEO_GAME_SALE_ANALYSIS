@@ -34,7 +34,7 @@ This notebook will contain the following features, in order
 2. Exploratory Data Analysis
 3. Linear Regression to predict Total Sales
 4. Support Vector Regression and GridSearch to improve model
-5. Blackbox Function to Generate Desired Game Attributes
+5. Blackbox Function to generate desired game attributes
 6. Conclusion
 
 ## Libraries and Models
