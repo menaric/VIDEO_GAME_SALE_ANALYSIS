@@ -7,6 +7,7 @@ It focuses on the analysis of the video game database from VGChartz. <br>
 2. Create a model to assist new / aspiring game developers in choosing desired attributes for their games
 
 ## Collaborators
+Lab Group: SC19
 __Chee Wen Zhan__ (_@wzchee_) : Data Scraping, Notebook Management <br>
 __Bernard Chiang Zhi Heng__ (_@Kazurl_): Linear Regression, Support Vector Regression <br>
 __Tan Jia Ze__ (_@menaric_): Exploratory Data Analysis <br>
