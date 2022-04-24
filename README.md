@@ -8,8 +8,8 @@ It focuses on the analysis of the video game database from VGChartz. <br>
 
 ## Collaborators
 __Chee Wen Zhan__ (_@wzchee_) : Data Scraping, Notebook Management <br>
-__Bernard Chiang Zhi Heng__ (_j_): Linear Regression, Support Vector Regression <br>
-__Tan Jia Ze__ (_k_): Exploratory Data Analysis <br>
+__Bernard Chiang Zhi Heng__ (_@Kazurl_): Linear Regression, Support Vector Regression <br>
+__Tan Jia Ze__ (_@menaric_): Exploratory Data Analysis <br>
 
 ## Datasets
 ### vgsales.csv
